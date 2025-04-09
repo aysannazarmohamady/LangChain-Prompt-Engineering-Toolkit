@@ -27,7 +27,7 @@ License
 
 🔧 Installation
 bash# Clone the repository
-git clone https://github.com/yourusername/langchain-prompt-engineering.git
+git clone https://github.com/aysannazarmohamady/langchain-prompt-engineering.git
 cd langchain-prompt-engineering
 
 # Create a virtual environment (optional but recommended)
